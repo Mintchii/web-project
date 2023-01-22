@@ -2,6 +2,7 @@
   "name": "web-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Mintchii.github.io/web-project",
   "dependencies": {
     "@fluentui/react": "^8.104.6",
     "@testing-library/jest-dom": "^5.16.5",
